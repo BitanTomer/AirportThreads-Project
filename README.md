@@ -1,4 +1,5 @@
 # AirportThreads-Project
 Airport project - Build and maintains airport project using OOP, multi-threading, collections and Database.
 
-![Airport](https://user-images.githubusercontent.com/49564370/64923786-110c9d00-d7e6-11e9-8d91-7d06b7a72ba9.JPG)
+![Airport](https://user-images.githubusercontent.com/49564370/64923883-15858580-d7e7-11e9-88de-30a6050ff444.png)
+
